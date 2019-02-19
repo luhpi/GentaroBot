@@ -1,0 +1,11 @@
+{
+  "name": "gentarobot",
+  "version": "1.0.0",
+  "description": "uso desu yo bitch",
+  "main": "bot.js",
+  "author": "pinetree",
+  "dependencies": {
+    "discord.io": "http://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
